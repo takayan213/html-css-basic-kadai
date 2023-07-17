@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans+JP:wght@300;500;700&display=swap');
+
+body {
+    font-family: "Arial", "Meiryo", "sans-serif";
+    text-align: center;
+}
+h1 {
+    font-family: "Josefin Sans";
+    font-size: 40px;
+    letter-spacing: 1.2em;
+    text-shadow: 3px 3px blueviolet;
+    vertical-align: sub;
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+.m {
+    color: skyblue;
+}
+
+#basic p {
+    font-weight: bold;
+}
+
+.p {
+    color: rgb(255, 192, 203);
+}
